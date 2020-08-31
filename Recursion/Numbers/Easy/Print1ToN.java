@@ -6,6 +6,7 @@
 */
 
 class Print1ToN {
+   // using recursion
    public static void print1ToN(int n) {
      // base case
      if (n == 0) {
