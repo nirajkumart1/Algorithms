@@ -1,0 +1,334 @@
+https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/
+
+https://medium.com/better-programming/cracking-the-google-coding-interview-3b8dd29b0d6a
+
+
+https://www.educative.io/courses/grokking-the-coding-interview?aff=VOY6
+
+https://medium.com/better-programming/the-ultimate-strategy-to-preparing-for-the-coding-interview-ee9f7eb439f3
+
+
+https://www.linkedin.com/in/vivek-shukla-a0a21013?trk=public_profile_similar-profiles_profile-result-card_result-card_full-click
+
+https://www.youtube.com/playlist?list=PLBtMh4xfa9FGvYK-RMiBN7C43nejyScyU
+
+
+https://www.youtube.com/watch?v=Rv2aqJVRwaM - whiteboard coding
+
+
+https://interviews.school/
+
+
+https://www.youtube.com/watch?v=4ZRttg3xSbc&feature=emb_title == Prepare for top tech companies
+
+
+
+https://www.youtube.com/watch?v=7IbxzIyRMrA == whiteboard coding
+
+http://www.newthinktank.com/category/web-design/git-video-tutorial/ == GitHub
+
+https://www.youtube.com/watch?v=KtKgFnZoM5o&list=PL5tcWHG-UPH0LBMGsGyNyrQ4NIPynnE5u == ctci
+
+
+https://github.com/donnemartin/interactive-coding-challenges#arrays-and-strings == interview questions list
+
+
+https://tianpan.co/notes/2016-02-13-crack-the-system-design-interview == System Design
+
+https://www.youtube.com/channel/UC6B6UMcP7tdlE6NxkAha3tA/playlists == dp problems
+
+
+https://dev.to/arslan_ah/the-ultimate-strategy-to-preparing-for-the-coding-interview-3ace == Grokking coding interview
+
+
+https://learndigital.withgoogle.com/digitalunlocked/courses
+
+https://www.youtube.com/watch?v=LPT7v69guVY
+
+
+https://github.com/mohammedjasam/Technical-Interview-Guide/blob/master/Algorithms/dynamic_programming/0_1_knapsack.py
+
+
+https://github.com/imujjwalanand/Grokking-the-System-Design
+
+
+https://github.com/livelessons-spring/building-microservices
+
+https://github.com/rohitghatol/spring-boot-microservices
+
+https://github.com/PacktPublishing/The-Complete-Coding-Interview-Guide-in-Java/blob/master/Chapter06/HashTable/src/main/java/coding/challenge/HashTable.java
+
+
+https://github.com/subfuzion/voting-app
+
+https://medium.com/educative/5-dynamic-programming-problems-and-solutions-for-your-next-coding-interview-ad938bce2351 == Dynamic programming
+
+
+https://medium.com/hackernoon/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed == Patterns to ace any coding interview
+
+https://medium.com/hackernoon/the-top-10-object-oriented-design-interview-questions-developers-should-know-c7fc2e13ce39 == Object Oriented design Question
+
+https://medium.com/educative/3-month-coding-interview-bootcamp-904422926ce8  == interview prep strategy
+
+
+https://medium.com/free-code-camp/the-top-data-structures-you-should-know-for-your-next-coding-interview-36af0831f5e3 == data structures and algorithm
+
+https://medium.com/hackernoon/how-not-to-succeed-in-your-45-minute-coding-interview-2eebd46bd6ec == how to talk during interview
+
+
+https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed
+
+
+https://www.youtube.com/watch?v=8_U1o7GBt8A == Production Ready COde
+
+https://medium.com/@alexsandrosouza
+
+
+https://github.com/donnemartin/system-design-primer#index-of-system-design-topics == system design
+
+
+https://github.com/checkcheckzz/coding-questions
+
+
+https://www.youtube.com/watch?v=AAMLzNaDkjk == System-Design
+
+https://www.youtube.com/watch?v=gzWbOX8drcI&list=PL1rAM2q8SHJ8VoG2h72O6zleJnLrIDtHV == System Design
+
+https://www.youtube.com/watch?v=Gg318hR5JY0&feature=emb_title == System Design Google
+
+https://medium.com/system-designing-interviews/approach-a-system-design-interview-f3594e243730 == company based questions
+
+
+
+https://medium.com/system-designing-interviews == system-design
+
+https://www.youtube.com/watch?v=sPBVDDLK6Bs&list=PL564gOx0bCLouDCUMtmj6hMEu1JS7QYEr == system design
+
+https://www.instahyre.com/
+
+
+https://medium.com/system-designing-interviews/approach-a-system-design-interview-f3594e243730 == System design
+
+
+
+
+
+
+
+https://github.com/shivam-maharshi
+
+https://github.com/cruxrebels
+
+https://github.com/Arjiit/LeetCode-Patterns/tree/master/Design
+
+
+https://github.com/TrainingByPackt/Data-Structures-and-Algorithms-in-Java/tree/master/src/main/java/com/packt/datastructuresandalg
+
+
+https://github.com/msdundar/notes-grokking-algorithms/tree/master/9.%20greedy-algorithms
+
+
+
+https://www.youtube.com/watch?v=KZIDT5zHAVE&list=PL8FaHk7qbOD6xsQBRCY5Su-vbkf0X4gq8
+
+
+https://github.com/partho-maple/coding-interview-gym -- Algoexpert and leetcode
+
+
+https://github.com/hoanhan101/algo/tree/master/leetcode == For program style
+
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/video-lectures/
+
+2019 02 10 System Design Interviews Preperation, Key Concepts - part I
+
+System Design Interviews Preperation, Key Concepts Part II
+
+System Design Session by Naga Aerakoni == 
+
+System Design Session by Naga Aerakoni - Transactions - Part 1
+
+System Design Session by Naga Aerakoni - Transactions - Part 2
+
+https://www.youtube.com/watch?v=2vEpWg-BwC8 Preparing for Interviews - Building a Roadmap and Tracking Progress
+
+System Design Basics by Roger - Part 2
+
+System Design Basics by Roger - Part 1
+
+SDE Skills - In Class Sessions - Jun 23 - System design
+
+SDE Skills - CtCI - In Class Sessions - Apr 7 - System Design
+
+Requirement gatheruing and desiging
+-----------------------------------
+
+System Design - Instagram Design - by Aseem Puri and Dippy Aggarwal
+
+System Design - Dropbox/Google Drive Design - by Aseem Puri and Dippy Aggarwal
+
+System Design - Microservices Communication Patterns - by Aseem Puri
+
+https://www.youtube.com/watch?v=da7mdMz0g0g == For system design
+
+
+
+
+
+Episode 02 - System Design for Technical Interviews == System design
+
+
+https://www.youtube.com/watch?v=wRIUnHO_6KY == Python real word project
+
+https://www.youtube.com/watch?v=bXEBK6hhZXk&list=PL9l1zUfnZkZnW828ZmQBFTPCCoc5y6Ycg == For MicroService
+
+
+Behavioral Interview == https://www.youtube.com/watch?v=qztUIFZdskA == sdeskill
+
+
+https://medium.com/@daniel.oliver.king/getting-started-with-recursion-f89f57c5b60e
+
+
+https://introcs.cs.princeton.edu/java/lectures/
+
+https://www.cs.cmu.edu/~adamchik/15-121/lectures/
+
+https://github.com/CobraCoral/recursive_square
+
+https://www2.cs.duke.edu/courses/spring20/compsci308/assign/
+
+https://github.com/ted-ly/system-design-interview == System design interview
+
+
+https://github.com/binhnguyennus/awesome-scalability == System design
+
+
+https://www.educative.io/collection/page/6151088528949248/4547996664463360/4866636664274944
+
+
+http://www.aosabook.org/en/distsys.html
+
+
+
+
+https://leetcode.com/discuss/interview-question/448285/List-of-questions-sorted-by-common-patterns.
+
+https://www.quora.com/q/techparoksha/The-Two-Pointer-Algorithm
+
+
+
+https://www.youtube.com/watch?v=96kEuUU-eog
+
+https://www.educative.io/courses/coderust-hacking-the-coding-interview/lAEM
+
+
+
+https://www.educative.io/courses/data-structures-in-javascript-with-visualizations-and-hands-on-exercises/j2WmR = Binary Tree And Binary Search Tree
+
+
+https://www.educative.io/track/beginning-front-end-developer
+
+
+https://www.educative.io/courses/the-complete-javascript-course-build-a-real-world-app-from-scratch/39J561QqJ3M
+
+
+https://blog.contactsunny.com/tech/binary-tree-implementation-in-java  == Binary Tree
+
+
+https://levelup.gitconnected.com/binary-tree-implementation-in-java-7d7b0b0f090b
+
+
+-------------------- Grokking coding interview ------------------------------------
+
+
+https://github.com/jayadeepshitole/educativeio/blob/master/Pattern%20-%20Two%20Pointers/Minimum%20WIndow%20Sort.py
+
+https://github.com/sumit4209211/Educative.io = Educative io system design
+
+https://github.com/yashuvit89/coding-interview-patterns/blob/master/two-pointers/a-intro-pair-with-target-sum.js
+
+https://github.com/dipjul/Grokking-the-Coding-Interview-Patterns-for-Coding-Questions == for coding patten questions
+
+
+https://github.com/luckydimdim/grokking =Grokking coding interview
+
+https://github.com/dheerajgupta217/GrokkingTheCodingInterview/tree/master/Java
+
+https://github.com/Shreyassavanoor/grokking-coding-interview/tree/master/2_two_pointer
+
+https://github.com/vinitsamel/grok-code
+
+
+https://github.com/cl2333/Grokking-the-Coding-Interview-Patterns-for-Coding-Questions/tree/master/2.%20Pattern%20Two%20Pointers
+
+
+https://github.com/imujjwalanand/Grokking-the-System-Design = System Design
+
+https://www.coursera.org/lecture/principles-of-computing-2/recursion-ccrwD
+
+
+
+
+------------------------------- Google Interview ---------------------------------
+
+Here are my comments related to the Google Interviews.
+
+If you talk about the programming then :
+
+(Step-1) : You should have practical understanding of the Algorithms (e.g. When to use BackTracking, When to Use Divide and Conquer, Why double hashing required ?,Where brute force concept can be applied ?)
+
+(Step-2): You should have practical understanding of Data Structures e.g. (Practical use cases related to :when to use circular buffer , or when to use adjacently list )
+
+(Step-3) : You must practice several coding problems to implement the things which learn from Step-1 , and Step-2 (you may do the following choose any coding language for the choice of yours (C,C++ or Java or Python or PHP)
+
+Other than that :
+
+However other than programming you might need to understand the main concept for the interview is to keep the interview active and this requires some action from your side, such as the following:
+
+You need to talk
+
+You need to explain
+
+You need to discuss
+
+You need to express your views
+
+You need to understand clearly the questions given to you
+
+You need to understand the interviewer’s expression and mindset to un- derstand those questions
+
+You might need to ask appropriate questions to understand the question or any other discussion item.
+
+However other than programming you might need to look on the below points that can help you to understand the overall concept :  (Possibly that may help you to have further thoughts to think what extra you might need.)
+
+Why Google will not hire you ?,
+
+Here Google doesn't mean the Google, it means any company which is very creative to introduce the computer science related products e.g. Google, Microsoft, Apple, Amazon, Facebook, ..or any one else which you feel to be a reasonable fit
+
+Please see the attached ppt, that provide few points that might be helpful to plan the missing things around you If exist.
+
+
+
+https://medium.com/leetcode-patterns/leetcode-pattern-2-sliding-windows-for-strings-e19af105316b == Coding pattern
+
+https://medium.com/@codingfreak
+
+
+https://github.com/yashuvit89/coding-interview-patterns
+
+
+https://seanprashad.com/leetcode-patterns/ = Company based questions
+
+https://github.com/lei-hsia/grokking-system-design/blob/master/basics/consistent-hashing.md
+
+
+http://www.gowrikumar.com/interview/index.php
+
+
+https://www.newtechways.com/
+
+https://www.linkedin.com/in/sibapatro/
+
+https://medium.com/@henriquesd/dry-kiss-yagni-principles-1ce09d9c601f
+
+
+https://medium.com/@scott.kitchell/the-only-rule-you-need-for-writing-clean-code-532a64df0eff
